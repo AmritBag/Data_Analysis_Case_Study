@@ -2,7 +2,7 @@
 
 ## **Executive Summary**
 
-This case study provides a comprehensive exploratory data analysis (EDA) for customer sales data. The analysis explores key trends, customer behaviors, and potential areas for growth. Key insights include:
+This case study provides a comprehensive exploratory data analysis (EDA) Credit card approval. The analysis explores how collectively they are affecting the same response variable, so the bank could choose the most important variables out of these for running their quick customer diagnostics before approving a credit card.
 
 A significant portion of purchases come from customers aged **25-35**.
 
@@ -14,22 +14,20 @@ These insights can help optimize marketing strategies, increase revenue, and imp
 
 ## **Problem Statement**
 
-To support business growth and enhance customer engagement, this analysis aims to:
+To support business growth and enhance survice , this analysis aims to:
 
-- Understand key trends in customer purchase behaviors.
+- Understand key features in customer detail to check quick customer diagnostics before approving a credit card.
 
-- Identify areas for improvement in customer retention and revenue growth.
 
 ### **Dataset**
 
-This EDA used sales transaction data from January 2022 to December 2023. The dataset includes critical fields such as:
+This EDA used Credit Card data.The dataset includes critical fields such as:
 
-- Customer Demographics (Age, Gender, Location)
-- Purchase History (Date, Amount, Product Category)
-- Product Details (Category, Price, Discounts Applied)
+- Customer Demographics (Age, Income, Share, Expenditure,Owner)
+- Card History (Najorcards, Active)
 
 ### **Methodology**
-- Data Collection: Data was sourced from internal sales records.
+- Data Collection: Data was sourced from internal card approval records.
 - Data Preparation: Missing values were handled, duplicates removed, and data was standardized for analysis.
 - Tools Used: Python (Pandas, Matplotlib, Seaborn, NumPy) for data manipulation, visualization, and statistical analysis.
 ## **Key Findings**
