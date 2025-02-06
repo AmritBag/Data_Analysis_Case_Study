@@ -1,4 +1,4 @@
-# **Data Analysis Case Study on Credit_card Data**
+# **Exploretory Data Analysis (EDA) on Credit_card Data**
 
 ## **Executive Summary**
 
@@ -18,7 +18,7 @@ To support business growth and enhance survice , this analysis aims to:
 
 
 ### **Dataset**
-
+- Data source : https://www.kaggle.com/
 This EDA used Credit Card data.The dataset includes critical fields such as:
 
 - Customer Demographics (Age, Income, Share, Expenditure,Owner)
